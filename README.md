@@ -21,14 +21,6 @@ Arduino programming hasn't been easy, but using Scratch to program Arduino, it i
     **Program Mode:**
     <img src="docs/screenshoot-program.png"/>
 
-## Getting Started
-Visit the wiki: [Scratch Arduino Wiki](https://github.com/OttawaSTEM/scratch-arduino-gui/wiki)
-
-## Join Chat
-- Github Discussions: [Scratch Arduino Discussions](https://github.com/OttawaSTEM/scratch-arduino-gui/discussions)
-
-## Bug Report
-You can submit the bug log in issues of this project.
 
 ## Starting the Server
 To start the Scratch Arduino server locally, follow these steps:
