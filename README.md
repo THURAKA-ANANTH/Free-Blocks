@@ -35,10 +35,10 @@ To start the Scratch Arduino server locally, follow these steps:
 
 1. Clone or download the Scratch Arduino repository from GitHub to your local machine.
 2. Navigate to the root directory of the project in your terminal/command prompt.
-3. Install the necessary dependencies by running `npm install` if you haven't already done so.
+3. Install the necessary dependencies by running `npm install` if you haven't already done so Note: use node version 14 only.
 4. Start the server by running the command `npm start`.
 5. Once the server is running, you should see output indicating that the server is listening on a specific port, usually port 3000 by default.
-6. Open your web browser and navigate to the URL where the Scratch Arduino server is hosted, typically `http://localhost:3000`.
+6. Open your web browser and navigate to the URL where the Scratch Arduino server is hosted, typically `http://0.0.0.0:8601/`.
 7. You should now be able to use Scratch Arduino in both interactive and program modes.
 
 These steps assume you have Node.js and npm installed on your machine. If not, you'll need to install them before proceeding. Additionally, make sure to follow any specific instructions or prerequisites mentioned in the project's documentation.
